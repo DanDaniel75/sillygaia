@@ -283,10 +283,14 @@
 
   .u-section-1-3 .u-text-1 {
     font-size: 1.875rem;
-    width: 360px;
+    width: auto;
+    margin-left: 26px;
+    margin-right: 26px;
   }
 
   .u-section-1-3 .u-text-2 {
-    width: 360px;
+    width: auto;
+    margin-left: 26px;
+    margin-right: 26px;
   }
 }
