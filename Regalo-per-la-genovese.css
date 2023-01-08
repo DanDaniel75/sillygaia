@@ -126,7 +126,7 @@
 }
 
  .u-section-1-2 {
-  background-image: linear-gradient(0deg, rgba(26,26,26,0.5), rgba(26,26,26,0.5)), url("https://i.ibb.co/Pmwwv0Y/Cattura.png");
+  background-image: linear-gradient(0deg, rgba(26,26,26,0.5), rgba(26,26,26,0.5)), url("/images/Cattura.png");
   min-height: 800px;
 }
 
@@ -193,7 +193,7 @@
 }
 
  .u-section-1-3 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("https://i.ibb.co/gb0QZ8n/zampe.png");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("/images/zampe.png");
   background-position: 50% 50%;
   min-height: 800px;
 }
