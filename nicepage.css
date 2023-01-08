@@ -39378,11 +39378,16 @@ a.u-link.u-text-hover-grey-90:hover {
         
         
         
-        --theme-sheet-width-xl: 1920px;
+        --theme-sheet-width-xl: 941px;
         --theme-sheet-width-lg: 940px;
         --theme-sheet-width-md: 720px;
         --theme-sheet-width-sm: 540px;
-        --theme-sheet-width-xs: 360px;
+        --theme-sheet-width-xs: 412px;
+        
+        
+        
+        
+        
         
         
         
@@ -39505,6 +39510,14 @@ a.u-link.u-text-hover-grey-90:hover {
         {
         margin-top: 20px;
         margin-bottom: 20px;
+        }
+        .u-body
+        {
+        background-image: url("/images/default-image.jpg");
+        background-attachment: fixed;
+        background-size: cover;
+        background-position: 50% 50%;
+        background-repeat: no-repeat;
         }
         /** common-rules **/
 
